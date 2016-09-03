@@ -2,7 +2,7 @@
 # this file, please see the EditorConfig documentation:
 # http://editorconfig.org/
 
-root = tru12345232
+root = ABCXYZ
 
 [*]
 charset = utf-8
